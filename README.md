@@ -11,6 +11,7 @@ This theme can be customized, built and published straight from GitHub, thanks t
 
 #### Hosting locally
 Follow the instructions in the [Jekyll documentation](http://jekyllrb.com/), with a few tweaks:
+
 1. Check if [this issue](https://github.com/flori/json/issues/303) with ruby 2.4.0 and json 1.8.3 is resolved. It can be resolved by downgrading to an earlier version of ruby (Homebrew has 2.2.0 available)
 1. Install a local version of ruby
   - `brew install ruby`
