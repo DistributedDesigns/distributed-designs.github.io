@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
-author: Admin
-categories: 
-- blog 
-- Wordpress
-- Photoshop
+title: "A new project awaits"
+date: 2016-12-31 17:35:44
+author: Tyler Stephen
+categories:
+- blog
+- seng462
 img: post01.jpg
 thumb: thumb01.jpg
 ---
+
+Say `hello` to our **new** project, a [distributed trading system][seng462-project-page]!
+
+<!--more-->
 
 <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
@@ -20,7 +23,7 @@ Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has
 
 Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-####Why do we use it?
+#### Why do we use it?
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
 
 
@@ -28,4 +31,11 @@ It is a long established fact that a reader will be distracted by the readable c
 
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
+### Go nuts with formatting!
+
+```javascript
+console.log('lol');
+```
+
 [hampden]: https://github.com/jekyll/jekyll
+[seng462-project-page]: {{ site.baseurl }}{% post_url /project/2016-12-31-stock-trading %}
