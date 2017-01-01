@@ -33,9 +33,19 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ### Go nuts with formatting!
 
+This uses triple backticks:
+
 ```javascript
 console.log('lol');
 ```
 
+This uses some built in gems?
+{% highlight javascript %}
+console.log('lol');
+{% endhighlight %}
+
+Whatever here's a [link to a .pdf][ece-sci-electives].
+
 [hampden]: https://github.com/jekyll/jekyll
 [seng462-project-page]: {{ site.baseurl }}{% post_url /project/2016-12-31-stock-trading %}
+[ece-sci-electives]: {{ site.baseurl }}{% link /assets/files/Natural-Science-Electives-ECE.pdf %}
