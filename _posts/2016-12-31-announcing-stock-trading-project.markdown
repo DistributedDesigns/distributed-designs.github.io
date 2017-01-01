@@ -4,7 +4,6 @@ title: "A new project awaits"
 date: 2016-12-31 17:35:44
 author: Tyler Stephen
 categories:
-- blog
 - seng462
 img: post01.jpg
 thumb: thumb01.jpg
@@ -47,5 +46,5 @@ console.log('lol');
 Whatever here's a [link to a .pdf][ece-sci-electives].
 
 [hampden]: https://github.com/jekyll/jekyll
-[seng462-project-page]: {{ site.baseurl }}{% post_url /project/2016-12-31-stock-trading %}
+[seng462-project-page]: {{ site.baseurl }}{% link _projects/2016-12-31-stock-trading.markdown %}
 [ece-sci-electives]: {{ site.baseurl }}{% link /assets/files/Natural-Science-Electives-ECE.pdf %}

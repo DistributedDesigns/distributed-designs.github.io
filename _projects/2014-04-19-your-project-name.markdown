@@ -4,8 +4,8 @@ title:  "YOUR PROJECT NAME"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
-- project
-img: portfolio_01.jpg
+img: portfolio_06.jpg
+thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
