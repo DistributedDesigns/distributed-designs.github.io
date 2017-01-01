@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: Demo
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/seng462-test" #important: start with /
@@ -26,15 +26,15 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
+  - icon: dribbble
     url:
-  - title: facebook
+  - icon: facebook
     url:
-  - title: twitter
+  - icon: twitter
     url:
-  - title: instagram
+  - icon: instagram
     url:
-  - title: tumblr
+  - icon: tumblr
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
@@ -51,41 +51,32 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+  - name: Tyler Stephen
+    position: Principal Engineer
+    text: Will find perfection in all aspects of design.
+    img: tyler.jpg
     social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+      - icon: envelope
+        url: mailto:tstephen@uvic.ca
+      - icon: github
+        url: https://github.com/trstephen
   - name: Paul Jameson
     position: Lead Designer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team02.jpg
     social:
-      - title: envelope #use for email address
+      - icon: envelope #use for email address
         url: mailto:name@domain.com
-      - title: twitter
+      - icon: twitter
         url: http://twitter.com/handle
   - name: Laura Sommers
     position: Lead Developer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     img: team03.jpg
     social:
-      - title: envelope #use for email address
+      - icon: envelope #use for email address
         url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
+      - icon: twitter
         url: http://twitter.com/handle
 
 # Clients information. Shown on Home and About pages.
@@ -100,7 +91,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I have edited the 'about' in config.yml"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
