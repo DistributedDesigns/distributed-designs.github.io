@@ -3,7 +3,6 @@ layout: project
 title:  "Distributed Stock Trading"
 date:   2016-12-31 17:26:42
 author: Tyler Stephen
-categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:

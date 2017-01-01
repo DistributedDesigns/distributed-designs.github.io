@@ -3,7 +3,6 @@ layout: project
 title:  "YOUR PROJECT NAME"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
-categories:
 img: portfolio_06.jpg
 thumb: thumb02.jpg
 carousel:
