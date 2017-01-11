@@ -24,7 +24,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-You can now view the local version at http://127.0.0.1:4000/seng462-test/
+You can now view the local version at http://127.0.0.1:4000/
 
 #### Customize  
 Most general settings and data like site name, colors, address, etc. can be configured and changed right in the main config file: `/_config.yml`
