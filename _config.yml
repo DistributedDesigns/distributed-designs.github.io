@@ -70,7 +70,7 @@ members:
   - name: Jake Cooper
     position: Staff Engineer
     text: Thinkerer of objects, builder of things. My bike shed is prettier than yours.
-    img: jake.jpg
+    img: jake.png
     social:
       - icon: envelope #use for email address
         url: mailto:jake@jakecooper.me
